@@ -20,5 +20,4 @@
 
 .choose the right charts and graphs bars.
 
-.At last step created a insightfull dashboard.
-
+.At last step created a insightfull dashboards.
